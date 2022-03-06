@@ -1,4 +1,4 @@
-# Enemies Shooter 2D
+# Enemies Shooter
 Use w, s, a & d keys to move the player & use the left mouse button to shoot the enemies.
 
 # How to build this project?
