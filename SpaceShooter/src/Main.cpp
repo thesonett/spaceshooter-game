@@ -1,4 +1,6 @@
-// Enemies Shooter Game using SFML by Joy Saha
+// Created on 04-02-2021 by Joy Saha
+// @Author: TheSonett
+
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
